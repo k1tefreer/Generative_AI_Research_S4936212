@@ -9,3 +9,7 @@ Non-sensitive files like literature, scripts, and drafts can be stored in a GitH
 3. Why is it important to have a good naming convention?
 
 A consistent naming convention lets files be identified by name alone, so collaborators can find the right version quickly without confusion. It also keeps files sortable and avoids spaces or special characters that can break paths across different systems.
+
+4. Under what scenarios, creating a new branch would be useful?
+
+Creating a new branch is useful when you want to work on a new feature or fix without changing the stable main branch. It also lets team members work on different tasks at the same time, then merge their changes back once they're ready.
